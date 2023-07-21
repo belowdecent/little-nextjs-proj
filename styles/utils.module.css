@@ -1,0 +1,63 @@
+.heading2Xl {
+  font-size: 2.6rem;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+}
+
+.headingXl {
+  font-size: 2.1rem;
+  line-height: 1.3;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+}
+
+.headingLg {
+  font-size: 1.6rem;
+  line-height: 1.4;
+  margin: 1rem 0;
+}
+
+.headingMd {
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
+
+.borderCircle {
+  border-radius: 9999px;
+  border: 5px #E1F5FE solid;
+}
+
+.colorInherit {
+  color: inherit;
+}
+
+.padding1px {
+  padding-top: 1px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.listItem {
+  margin: 0 0 1.35rem;
+  padding: 1rem;
+  border-radius: 10px;
+  background: #E1F5FE; 
+  color: rgb(98,0,234);
+  box-shadow: -4px 4px 15px 0px #E1F5FE39;
+}
+
+.listItem a{
+  color: #1565C0;
+  font-weight: 600;
+}
+
+.lightText {
+  color: #B388FF;
+}
